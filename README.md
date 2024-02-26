@@ -26,13 +26,13 @@ Here are some of the projects I've worked on:
 
 
 ## Languages and Tools
-![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)_
-![CSS](https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg)_
-![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)_
-![React.js](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)_
-![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)_
-![npm](https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg)_
-![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)_
+![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
+![CSS](https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg)
+![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
+![React.js](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
+![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+![npm](https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg)
+![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)
 
 ## Get in Touch
 Let's build something amazing together and stay ahead in the ever-evolving world of frontend development! ⚡️✨🚀
