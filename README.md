@@ -20,11 +20,16 @@ Here are some of the projects I've worked on:
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://linkedin.com/in/adeoyeadeoluwa)
 [![Twitter](https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg)](https://www.twitter.com/adeoluwatweets)
 [![Messenger](https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg)](https://m.me/adeoluwa.adeoye.90)
-[![WhatsApp](https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg)](https://wa.me/+2348140898790)
+
+- 💬 Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.
+- 📫 You can reach me via email at adeoluadeoye7@gmail.com or connect with me on [WhatsApp](https://wa.me/+2348140898790).
+
 
 ## Languages and Tools
 ![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
+
 ![CSS](https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg)
+
 ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 ![React.js](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
 ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
@@ -32,7 +37,4 @@ Here are some of the projects I've worked on:
 ![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)
 
 ## Get in Touch
-- 💬 Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.
-- 📫 You can reach me via email at adeoluadeoye7@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/adeoyeadeoluwa).
-
 Let's build something amazing together and stay ahead in the ever-evolving world of frontend development! ⚡️✨🚀
