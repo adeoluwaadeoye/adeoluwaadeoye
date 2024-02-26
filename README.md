@@ -21,6 +21,23 @@ Here are some of the projects I've worked on:
 - 🌱 I'm continuously learning about performance optimization techniques and responsive design principles to create seamless user interfaces.
 - 👯 I'm open to collaborating on projects that push the boundaries of web development and incorporate cutting-edge technologies.
 
+## Connect with Me
+[![LinkedIn](linkedin-icon.png)](https://linkedin.com/in/adeoyeadeoluw)
+[![Twitter](twitter-icon.png)](https://www.twitter.com/adeoluwatweets)
+[![Facebook](facebook-icon.png)](https://m.me/adeoluwa.adeoye.90)
+
+## Languages and Tools
+- HTML: ![HTML](html-icon.png)
+- CSS: ![CSS](css-icon.png)
+- JavaScript: ![JavaScript](javascript-icon.png)
+- React.js: ![React.js](react-icon.png)
+- npm: ![npm](npm-icon.png)
+- Tailwind CSS: ![Tailwind CSS](tailwindcss-icon.png)
+- Bootstrap: ![Bootstrap](bootstrap-icon.png)
+- Visual Studio Code: ![VSCode](vscode-icon.png)
+
+
+
 ## Get in Touch
 - 💬 Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.
 - 📫 You can reach me via email at adeoluadeoye7@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/adeoyeadeoluwa).
