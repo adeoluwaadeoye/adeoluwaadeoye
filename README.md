@@ -11,9 +11,12 @@ Hello there! I'm Adeoluwa Adeoye, a dedicated Frontend Developer passionate abou
 
 ## Projects
 Here are some of the projects I've worked on:
-1. **E-Commerce Website:** Developed a fully functional e-commerce platform using React.js and Redux for state management.
-2. **Portfolio Website:** Designed and built my personal portfolio website to showcase my projects and skills.
-3. **Task Management App:** Created a task management application with Vue.js for efficient project organization.
+1. **E-Commerce Website:** Developed a fully functional e-commerce platform using React.js and Redux for state management. [Link](https://tastytopz.netlify.app/)
+2. **Portfolio Website:** Designed and built my personal portfolio website to showcase my projects and skills. [Link](https://adeoluwaadeoye.netlify.app/)
+3. **VisualHunt:** Created an innovative image search application powered by an API, allowing users to explore and discover a vast array of images with ease. [Link](https://visualhunt.netlify.app/)
+4. **CravwWave:** Crafted a visually enticing restaurant project with an elegant UI design, focusing on delivering an immersive dining experience to users. [Link](https://cravewave.netlify.app/)
+
+
 
 ## Currently
 - 🔭 Currently, I'm honing my skills in React.js and exploring the latest trends in frontend development.
