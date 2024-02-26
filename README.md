@@ -23,13 +23,14 @@ Here are some of the projects I've worked on:
 [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp.png)](https://wa.me/+2348140898790)
 
 ## Languages and Tools
- HTML: ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
- CSS: ![CSS](https://img.icons8.com/color/48/000000/css3.png)
- JavaScript: ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
- React.js: ![React.js](https://img.icons8.com/color/48/000000/react-native.png)
- npm: ![npm](https://img.icons8.com/color/48/000000/npm.png)
- Tailwind CSS: ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
- Bootstrap: ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+ ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+ ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+ ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+ ![React.js](https://img.icons8.com/color/48/000000/react-native.png)
+ ![npm](https://img.icons8.com/color/48/000000/npm.png)
+ ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+ ![Tailwind CSS](https://fontawesome.com/icons/tailwindcss?style=brands)
+
 
 ## Get in Touch
 - 💬 Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.
