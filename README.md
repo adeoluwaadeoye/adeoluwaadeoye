@@ -27,7 +27,7 @@ Here are some of the projects I've worked on:
  ![CSS](https://img.icons8.com/color/48/000000/css3.png)
  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
  ![React.js](https://img.icons8.com/color/48/000000/react-native.png)
- ![Tailwind](https://img.icons8.com/color/48/000000/tailwind-css.png)
+![Tailwind](https://fontawesome.com/icons/tailwindcss?style=brands)
  ![npm](https://img.icons8.com/color/48/000000/npm.png)
  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)  
 
