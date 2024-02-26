@@ -18,7 +18,7 @@ Here are some of the projects I've worked on:
 
 ## Connect with Me
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://linkedin.com/in/adeoyeadeoluwa)
-[![Twitter](https://www.vectorlogo.zone/logos/x/x-icon.svg)](https://www.twitter.com/adeoluwatweets)
+[![Twitter](https://www.vectorlogo.zone/logos/twitter-x/twitter-x-icon.svg)](https://www.twitter.com/adeoluwatweets)
 [![Messenger](https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg)](https://m.me/adeoluwa.adeoye.90)
 [![WhatsApp](https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg)](https://wa.me/+2348140898790)
 
