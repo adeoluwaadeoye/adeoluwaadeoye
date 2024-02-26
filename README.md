@@ -22,7 +22,7 @@ Here are some of the projects I've worked on:
 - 👯 I'm open to collaborating on projects that push the boundaries of web development and incorporate cutting-edge technologies.
 
 ## Connect with Me
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/adeoyeadeoluwa)
+[](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/adeoyeadeoluwa)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/adeoluwa)
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://facebook.com/adeoluwa)
 
