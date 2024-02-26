@@ -29,7 +29,8 @@ Here are some of the projects I've worked on:
  ![React.js](https://img.icons8.com/color/48/000000/react-native.png)
  ![npm](https://img.icons8.com/color/48/000000/npm.png)
  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
+![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+
 
 
 
