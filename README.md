@@ -23,13 +23,13 @@ Here are some of the projects I've worked on:
 [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp.png)](https://wa.me/+2348140898790)
 
 ## Languages and Tools
-![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
-![CSS](https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg)
-![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
-![React.js](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-![npm](https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg)
-![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)
+ ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+ ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+ ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+ ![React.js](https://img.icons8.com/color/48/000000/react-native.png)
+ ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+ ![npm](https://img.icons8.com/color/48/000000/npm.png)
+ ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)   add more links
 
 ## Get in Touch
 - 💬 Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.
