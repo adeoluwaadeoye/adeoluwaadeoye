@@ -17,17 +17,18 @@ Here are some of the projects I've worked on:
 - **CraveWave:** Crafted a visually enticing restaurant project with an elegant UI design, focusing on delivering an immersive dining experience to users. [**Link**](https://cravewave.netlify.app/)
 ## Connect with Me
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/adeoyeadeoluwa)
-[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/adeoluwa)
-[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://facebook.com/adeoluwa)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://www.twitter.com/adeoluwatweets)
+[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://m.me/adeoluwa.adeoye.90)
+[![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp.png)](https://wa.me/+2348140898790)
 
 ## Languages and Tools
-- HTML: ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-- CSS: ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- JavaScript: ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- React.js: ![React.js](https://img.icons8.com/color/48/000000/react-native.png)
-- npm: ![npm](https://img.icons8.com/color/48/000000/npm.png)
-- Tailwind CSS: ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
-- Bootstrap: ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+ [HTML](https://img.icons8.com/color/48/000000/html-5.png)
+[CSS](https://img.icons8.com/color/48/000000/css3.png)
+ ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+ ![React.js](https://img.icons8.com/color/48/000000/react-native.png)
+![npm](https://img.icons8.com/color/48/000000/npm.png)
+ ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
+ ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 - Visual Studio Code: ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code.png)
 
 
