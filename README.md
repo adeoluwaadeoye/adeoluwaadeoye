@@ -16,9 +16,8 @@ Here are some of the projects I've worked on:
 - **VisualHunt:** Created an innovative image search application powered by an API, allowing users to explore and discover a vast array of images with ease. [**Link**](https://visualhunt.netlify.app/)
 - **CraveWave:** Crafted a visually enticing restaurant project with an elegant UI design, focusing on delivering an immersive dining experience to users. [**Link**](https://cravewave.netlify.app/)
 
-  ## Certifications
+## Certification
   [![Meta](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg)](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
-  [![GoogleUX](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~T7S93PRCU45Q/CERTIFICATE_LANDING_PAGE~T7S93PRCU45Q.jpeg)](https://www.coursera.org/account/accomplishments/professional-cert/T7S93PRCU45Q)
 
 ## Connect with Me
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://linkedin.com/in/adeoyeadeoluwa)
