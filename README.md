@@ -27,9 +27,9 @@ Here are some of the projects I've worked on:
  ![CSS](https://img.icons8.com/color/48/000000/css3.png)
  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
  ![React.js](https://img.icons8.com/color/48/000000/react-native.png)
- ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+ ![Tailwind](https://img.icons8.com/color/48/000000/tailwind-css.png)
  ![npm](https://img.icons8.com/color/48/000000/npm.png)
- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)   add more links
+ ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)  
 
 ## Get in Touch
 - 💬 Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.
