@@ -15,16 +15,21 @@ Here are some of the projects I've worked on:
 - **Portfolio Website:** Designed and built my personal portfolio website to showcase my projects and skills. [**Link**](https://adeoluwaadeoye.netlify.app/)
 - **VisualHunt:** Created an innovative image search application powered by an API, allowing users to explore and discover a vast array of images with ease. [**Link**](https://visualhunt.netlify.app/)
 - **CraveWave:** Crafted a visually enticing restaurant project with an elegant UI design, focusing on delivering an immersive dining experience to users. [**Link**](https://cravewave.netlify.app/)
-
-## Currently
-- 🔭 Currently, I'm honing my skills in React.js and exploring the latest trends in frontend development.
-- 🌱 I'm continuously learning about performance optimization techniques and responsive design principles to create seamless user interfaces.
-- 👯 I'm open to collaborating on projects that push the boundaries of web development and incorporate cutting-edge technologies.
-
 ## Connect with Me
-(https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/adeoyeadeoluwa)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/adeoyeadeoluwa)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/adeoluwa)
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://facebook.com/adeoluwa)
+
+## Languages and Tools
+- HTML: ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+- CSS: ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+- JavaScript: ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+- React.js: ![React.js](https://img.icons8.com/color/48/000000/react-native.png)
+- npm: ![npm](https://img.icons8.com/color/48/000000/npm.png)
+- Tailwind CSS: ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
+- Bootstrap: ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+- Visual Studio Code: ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code.png)
+
 
 ## Languages and Tools
 - HTML: ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
