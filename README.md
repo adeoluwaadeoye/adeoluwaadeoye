@@ -39,7 +39,7 @@ Here are some of the projects I've worked on:
 ![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)
 
 ## Get Involved
-If you found this repository useful, please consider giving it a star ⭐️!
+Please, consider giving my ![repositories](https://github.com/adeoluwaadeoye/adeoluwaadeoye/) a star ⭐️!
 
 ## Get in Touch
 Let's build something amazing together and stay ahead in the ever-evolving world of frontend development! ⚡️✨🚀
