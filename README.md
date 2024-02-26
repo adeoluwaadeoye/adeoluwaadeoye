@@ -30,7 +30,6 @@ Here are some of the projects I've worked on:
 - npm: ![npm](https://img.icons8.com/color/48/000000/npm.png)
 - Tailwind CSS: ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
 - Bootstrap: ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-- Visual Studio Code: ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code.png)
 
 ## Get in Touch
 - 💬 Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.
