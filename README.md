@@ -38,5 +38,8 @@ Here are some of the projects I've worked on:
 ![npm](https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg)
 ![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)
 
+## Get Involved
+If you found this repository useful, please consider giving it a star ⭐️!
+
 ## Get in Touch
 Let's build something amazing together and stay ahead in the ever-evolving world of frontend development! ⚡️✨🚀
