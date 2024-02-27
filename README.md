@@ -19,9 +19,6 @@ Here are some of the projects I've worked on:
 ## Certification
   [![Meta](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg)](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
 
-https://img.shields.io/badge/%5B!%5BCertification%5D(https%3A%2F%2Fs3.amazonaws.com%2Fcoursera_assets%2Fmeta_images%2Fgenerated%2FCERTIFICATE_LANDING_PAGE%2FCERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ%2FCERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg)%5D(https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fprofessional-cert%2FESFU4ABASJAZ)
-
-
 ## Connect with Me
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://linkedin.com/in/adeoyeadeoluwa)
 [![Twitter](https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg)](https://www.twitter.com/adeoluwatweets)
