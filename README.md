@@ -6,10 +6,8 @@ Hello there! I'm Adeoluwa Adeoye, a dedicated Frontend Developer passionate abou
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeoluwaadeoye&show_icons=true&theme=radical&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true)
 
-### Contributions and Streaks
 ![Contributions and Streaks](https://github-readme-streak-stats.herokuapp.com/?user=adeoluwaadeoye&theme=radical)
 
-### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeoluwaadeoye&layout=compact&theme=radical)
 
 ## Skills
