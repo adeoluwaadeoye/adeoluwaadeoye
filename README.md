@@ -31,6 +31,7 @@ Here are some of the projects I've worked on:
     <img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" alt="Messenger" height="35"/>
   </a>
 </div>
+
 - 💬 Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.
 - 📫 You can reach me via email at adeoluadeoye7@gmail.com or connect with me on [WhatsApp](https://wa.me/+2348140898790).
 
