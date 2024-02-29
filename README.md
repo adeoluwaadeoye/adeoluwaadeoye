@@ -20,7 +20,6 @@ Here are some of the projects I've worked on:
   [![Meta](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg)](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
 
 ## Connect with Me
-## Connect with Me
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://linkedin.com/in/adeoyeadeoluwa)
 [![Twitter](https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg)](https://www.twitter.com/adeoluwatweets)
 [![Messenger](https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg)](https://m.me/adeoluwa.adeoye.90)
@@ -47,3 +46,8 @@ Let's build something amazing together and stay ahead in the ever-evolving world
 
 
 
+### My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeoluwaadeoye&show_icons=true)
+
+### My Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeoluwaadeoye)
