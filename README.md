@@ -23,19 +23,19 @@ Here are some of the projects I've worked on:
 <div style="display:flex;">
   <span>
   <a href="https://linkedin.com/in/adeoyeadeoluwa" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="35"/>
   </a>
   </span>
   
   <span>
   <a href="https://www.twitter.com/adeoluwatweets" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" height="35"/>
   </a>
   </span>
   
   <span>
   <a href="https://m.me/adeoluwa.adeoye.90" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" alt="Messenger" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" alt="Messenger" height="35"/>
   </a>
   </span>
 </div>
