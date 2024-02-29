@@ -10,13 +10,6 @@ Hello there! I'm Adeoluwa Adeoye, a dedicated Frontend Developer passionate abou
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeoluwaadeoye&layout=compact&theme=radical)
 
-## Certification
-[<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="500">](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
-
-## Some of My Works
-![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM4MXNxZ2IyNmVoNms5MXlsMmE2NXg1MXp5cHE0bHR4Mm90aWo2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sjAVIwerTyAi2jRUOE/giphy.gif)
-
-
 ## Languages and Tools
 <div style="display: flex; justify-content: space-between; gap: 40px; margin: 20px">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="35"/>
@@ -30,6 +23,13 @@ Hello there! I'm Adeoluwa Adeoye, a dedicated Frontend Developer passionate abou
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="35"/>
 </div>
+
+## Certification
+[<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="500">](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
+
+## Some of My Works
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM4MXNxZ2IyNmVoNms5MXlsMmE2NXg1MXp5cHE0bHR4Mm90aWo2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sjAVIwerTyAi2jRUOE/giphy.gif)
+
 
 ## Projects
 Here are some of the projects I've worked on:
