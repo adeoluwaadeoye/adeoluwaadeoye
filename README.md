@@ -10,26 +10,12 @@ Hello there! I'm Adeoluwa Adeoye, a dedicated Frontend Developer passionate abou
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeoluwaadeoye&layout=compact&theme=radical)
 
-## Projects
-Here are some of the projects I've worked on:
-- **E-Commerce Website:** Developed a fully functional e-commerce platform using React.js and Redux for state management. [**Link**](https://tastytopz.netlify.app/)
-- **Portfolio Website:** Designed and built my personal portfolio website to showcase my projects and skills. [**Link**](https://adeoluwaadeoye.netlify.app/)
-- **VisualHunt:** Created an innovative image search application powered by an API, allowing users to explore and discover a vast array of images with ease. [**Link**](https://visualhunt.netlify.app/)
-- **CraveWave:** Crafted a visually enticing restaurant project with an elegant UI design, focusing on delivering an immersive dining experience to users. [**Link**](https://cravewave.netlify.app/)
-
 ## Certification
 [<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="500">](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
 
 ## Some of My Works
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM4MXNxZ2IyNmVoNms5MXlsMmE2NXg1MXp5cHE0bHR4Mm90aWo2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sjAVIwerTyAi2jRUOE/giphy.gif)
 
-## Connect with Me
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35">](https://linkedin.com/in/adeoyeadeoluwa)
-[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="35">](https://www.twitter.com/adeoluwatweets)
-[<img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" width="35">](https://m.me/adeoluwa.adeoye.90)
-
-- 💬 Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.
-- 📫 You can reach me via email at adeoluadeoye7@gmail.com or connect with me on [WhatsApp](https://wa.me/+2348140898790).
 
 ## Languages and Tools
 <div style="display: flex; justify-content: space-between; gap: 40px; margin: 20px">
@@ -44,6 +30,24 @@ Here are some of the projects I've worked on:
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="35"/>
 </div>
+
+## Projects
+Here are some of the projects I've worked on:
+- **E-Commerce Website:** Developed a fully functional e-commerce platform using React.js and Redux for state management. [**Link**](https://tastytopz.netlify.app/)
+- **Portfolio Website:** Designed and built my personal portfolio website to showcase my projects and skills. [**Link**](https://adeoluwaadeoye.netlify.app/)
+- **VisualHunt:** Created an innovative image search application powered by an API, allowing users to explore and discover a vast array of images with ease. [**Link**](https://visualhunt.netlify.app/)
+- **CraveWave:** Crafted a visually enticing restaurant project with an elegant UI design, focusing on delivering an immersive dining experience to users. [**Link**](https://cravewave.netlify.app/)
+
+
+
+## Connect with Me
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35">](https://linkedin.com/in/adeoyeadeoluwa)
+[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="35">](https://www.twitter.com/adeoluwatweets)
+[<img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" width="35">](https://m.me/adeoluwa.adeoye.90)
+
+- 💬 Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.
+- 📫 You can reach me via email at adeoluadeoye7@gmail.com or connect with me on [WhatsApp](https://wa.me/+2348140898790).
+
 
 ## Get Involved
  😉 consider giving my [repositories](https://github.com/adeoluwaadeoye?tab=repositories) a star ⭐️!
