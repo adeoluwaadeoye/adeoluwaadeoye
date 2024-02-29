@@ -10,12 +10,6 @@ Hello there! I'm Adeoluwa Adeoye, a dedicated Frontend Developer passionate abou
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeoluwaadeoye&layout=compact&theme=radical)
 
-## Skills
-- **Programming Languages:** JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React.js, Vue.js
-- **Tools & Technologies:** Git, npm, Webpack
-- **Soft Skills:** Problem-solving, teamwork, communication
-
 ## Projects
 Here are some of the projects I've worked on:
 - **E-Commerce Website:** Developed a fully functional e-commerce platform using React.js and Redux for state management. [**Link**](https://tastytopz.netlify.app/)
@@ -28,7 +22,6 @@ Here are some of the projects I've worked on:
 
 ## Some of My Works
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM4MXNxZ2IyNmVoNms5MXlsMmE2NXg1MXp5cHE0bHR4Mm90aWo2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sjAVIwerTyAi2jRUOE/giphy.gif)
-
 
 ## Connect with Me
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35">](https://linkedin.com/in/adeoyeadeoluwa)
