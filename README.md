@@ -43,6 +43,9 @@ Here are some of the projects I've worked on:
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="35"/>
 </div>
 
 ## Get Involved
