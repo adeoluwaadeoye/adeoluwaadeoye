@@ -23,7 +23,7 @@ Here are some of the projects I've worked on:
 - **CraveWave:** Crafted a visually enticing restaurant project with an elegant UI design, focusing on delivering an immersive dining experience to users. [**Link**](https://cravewave.netlify.app/)
 
 ## Certification
-[<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="200">](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
+[<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="300">](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
 
 ## Connect with Me
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://linkedin.com/in/adeoyeadeoluwa)
