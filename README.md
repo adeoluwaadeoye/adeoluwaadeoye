@@ -3,6 +3,13 @@
 ## Introduction
 Hello there! I'm Adeoluwa Adeoye, a dedicated Frontend Developer passionate about creating captivating user experiences through clean and efficient code. With a solid background in frontend development and 3 years of experience, I thrive in dynamic environments where I can collaborate with talented individuals to bring innovative ideas to life.
 
+### My GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=adeoluwaadeoye&show_icons=true)
+
+### My Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeoluwaadeoye)
+
+
 ## Skills
 - **Programming Languages:** JavaScript, HTML, CSS
 - **Frameworks & Libraries:** React.js, Vue.js
@@ -43,11 +50,3 @@ Here are some of the projects I've worked on:
 
 ## Get in Touch
 Let's build something amazing together and stay ahead in the ever-evolving world of frontend development! ⚡️✨🚀
-
-
-
-### My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeoluwaadeoye&show_icons=true)
-
-### My Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeoluwaadeoye)
