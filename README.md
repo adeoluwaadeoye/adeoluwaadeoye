@@ -19,15 +19,20 @@ Here are some of the projects I've worked on:
 ## Certification
   [![Meta](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg)](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
 
-
 ## Connect with Me
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://linkedin.com/in/adeoyeadeoluwa)
-[![Twitter](https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg)](https://www.twitter.com/adeoluwatweets)
-[![Messenger](https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg)](https://m.me/adeoluwa.adeoye.90)
-
+<div style="display:flex;">
+  <a href="https://linkedin.com/in/adeoyeadeoluwa" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="35"/>
+  </a>
+  <a href="https://www.twitter.com/adeoluwatweets" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" height="35"/>
+  </a>
+  <a href="https://m.me/adeoluwa.adeoye.90" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" alt="Messenger" height="35"/>
+  </a>
+</div>
 - 💬 Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.
 - 📫 You can reach me via email at adeoluadeoye7@gmail.com or connect with me on [WhatsApp](https://wa.me/+2348140898790).
-
 
 ## Languages and Tools
 <div style="display: flex; justify-content: space-between; gap: 40px; margin: 20px">
