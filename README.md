@@ -4,10 +4,11 @@
 Hello there! I'm Adeoluwa Adeoye, a dedicated Frontend Developer passionate about creating captivating user experiences through clean and efficient code. With a solid background in frontend development and 3 years of experience, I thrive in dynamic environments where I can collaborate with talented individuals to bring innovative ideas to life.
 
 ### My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeoluwaadeoye&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeoluwaadeoye&show_icons=true&theme=radical&include_all_commits=true&custom_title=My%20GitHub%20Stats&count_private=true)
 
 ### My Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeoluwaadeoye&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeoluwaadeoye&theme=radical&langs_count=6)
+
 
 ## Skills
 - **Programming Languages:** JavaScript, HTML, CSS
@@ -23,7 +24,7 @@ Here are some of the projects I've worked on:
 - **CraveWave:** Crafted a visually enticing restaurant project with an elegant UI design, focusing on delivering an immersive dining experience to users. [**Link**](https://cravewave.netlify.app/)
 
 ## Certification
-[<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="300">](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
+[<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="400">](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
 
 ## Connect with Me
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://linkedin.com/in/adeoyeadeoluwa)
