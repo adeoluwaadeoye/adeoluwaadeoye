@@ -24,21 +24,18 @@ Hello there! I'm Adeoluwa Adeoye, a dedicated Frontend Developer passionate abou
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="35"/>
 </div>
 
-## Certification
-[<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="500">](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
-
 ## Some of My Works
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM4MXNxZ2IyNmVoNms5MXlsMmE2NXg1MXp5cHE0bHR4Mm90aWo2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sjAVIwerTyAi2jRUOE/giphy.gif)
 
+## Certification
+[<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="500">](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
 
-## Projects
+## Completed Projects
 Here are some of the projects I've worked on:
 - **E-Commerce Website:** Developed a fully functional e-commerce platform using React.js and Redux for state management. [**Link**](https://tastytopz.netlify.app/)
 - **Portfolio Website:** Designed and built my personal portfolio website to showcase my projects and skills. [**Link**](https://adeoluwaadeoye.netlify.app/)
 - **VisualHunt:** Created an innovative image search application powered by an API, allowing users to explore and discover a vast array of images with ease. [**Link**](https://visualhunt.netlify.app/)
 - **CraveWave:** Crafted a visually enticing restaurant project with an elegant UI design, focusing on delivering an immersive dining experience to users. [**Link**](https://cravewave.netlify.app/)
-
-
 
 ## Connect with Me
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35">](https://linkedin.com/in/adeoyeadeoluwa)
