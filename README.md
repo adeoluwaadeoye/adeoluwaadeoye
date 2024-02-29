@@ -42,3 +42,25 @@ Here are some of the projects I've worked on:
 
 ## Get in Touch
 Let's build something amazing together and stay ahead in the ever-evolving world of frontend development! ⚡️✨🚀
+
+
+
+## Connect with Me
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://linkedin.com/in/adeoyeadeoluwa)
+[![Twitter](https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg)](https://www.twitter.com/adeoluwatweets)
+[![Messenger](https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg)](https://m.me/adeoluwa.adeoye.90)
+
+- 💬 Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.
+- 📫 You can reach me via email at adeoluadeoye7@gmail.com or connect with me on [WhatsApp](https://wa.me/+2348140898790).
+
+
+## Languages and Tools
+<div style="display:flex;justify-content: space-between;">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="CSS" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="50"/>
+</div>
