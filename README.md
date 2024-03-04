@@ -1,5 +1,5 @@
-<h3>Hi 👋, I'm Adeoluwa Adeoye 👋</h3>  
- 
+Hello there  👋, I'm Adeoluwa Adeoye, a dedicated Frontend Developer passionate about creating captivating user experiences through clean and efficient code. With a solid background in frontend development and 3 years of experience, I thrive in dynamic environments where I can collaborate with talented individuals to bring innovative ideas to life.
+
 - 🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js and React.js.
 - 🚀 Backend: Experience with Express.js, Node.js, and MongoDB for building RESTful APIs.
 - 🔄 State Management: Knowledgeable in Redux for large-scale React applications.
