@@ -27,6 +27,7 @@ Hello there! I'm Adeoluwa Adeoye, a dedicated Frontend Developer passionate abou
   <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;"  alt="Git" height="35"/>
 </div>
 
+
 ## Certification
 [<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="700">](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
 
@@ -38,9 +39,9 @@ Here are some of the projects I've worked on:
 - **CraveWave:** Crafted a visually enticing restaurant project with an elegant UI design, focusing on delivering an immersive dining experience to users. [**Link**](https://cravewave.netlify.app/)
 
 ## Connect with Me
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35">](https://linkedin.com/in/adeoyeadeoluwa)
-[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="35">](https://www.twitter.com/adeoluwatweets)
-[<img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" width="35">](https://m.me/adeoluwa.adeoye.90)
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="padding-right:10px;" width="35">](https://linkedin.com/in/adeoyeadeoluwa)
+[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" style="padding-right:10px;" width="35">](https://www.twitter.com/adeoluwatweets)
+[<img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" style="padding-right:10px;" width="35">](https://m.me/adeoluwa.adeoye.90)
 
 - 💬 Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.
 - 📫 You can reach me via email at adeoluadeoye7@gmail.com or connect with me on [WhatsApp](https://wa.me/+2348140898790).
