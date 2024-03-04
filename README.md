@@ -1,6 +1,6 @@
-<div align="center">
-### Hi 👋, I'm Adeoluwa Adeoye 👋 
-</div>
+<h2 align="center">
+ ### Hi 👋, I'm Adeoluwa Adeoye 👋 
+</h2>
 
 - 🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js and React.js.
 - 🚀 Backend: Experience with Express.js, Node.js, and MongoDB for building RESTful APIs.
