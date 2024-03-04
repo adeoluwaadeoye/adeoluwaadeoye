@@ -14,6 +14,8 @@
 
 ### GitHub Stats
 
+### GitHub Stats
+
 #### Default Theme:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeoluwaadeoye&show_icons=true)
 
