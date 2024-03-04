@@ -15,16 +15,16 @@ Hello there! I'm Adeoluwa Adeoye, a dedicated Frontend Developer passionate abou
 
 ## Languages and Tools
 <div style="display: flex; justify-content: space-between; gap: 40px; margin: 20px">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="CSS" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="35"/>
+  <img align="left "src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" style="padding-right:10px;"  alt="HTML" height="35"/>
+  <img align="left src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" style="padding-right:10px;"  alt="CSS" height="35"/>
+  <img align="left src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" style="padding-right:10px;"  alt="JavaScript" height="35"/>
+  <img align="left src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="padding-right:10px;"  alt="React.js" height="35"/>
+  <img align="left src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:10px;"  alt="Tailwind" height="35"/>
+  <img align="left src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" style="padding-right:10px;"  alt="npm" height="35"/>
+  <img align="left src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" style="padding-right:10px;"  alt="Bootstrap" height="35"/>
+  <img align="left src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" style="padding-right:10px;"  alt="VSCode" height="35"/>
+  <img align="left src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="padding-right:10px;"  alt="Node.js" height="35"/>
+  <img align="left src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;"  alt="Git" height="35"/>
 </div>
 
 ## Certification
