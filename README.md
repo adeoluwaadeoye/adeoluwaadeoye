@@ -13,11 +13,15 @@
 - 💬 Communication: Effective team collaboration.
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeoluwaadeoye&show_icons=true&theme=radical&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true)
 
-![Contributions and Streaks](https://github-readme-streak-stats.herokuapp.com/?user=adeoluwaadeoye&theme=radical)
+#### Default Theme:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeoluwaadeoye&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeoluwaadeoye&layout=compact&theme=radical)
+#### Gradient Dark Theme:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeoluwaadeoye&show_icons=true&theme=radical)
+
+#### Gradient Light Theme:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeoluwaadeoye&show_icons=true&theme=gruvbox)
 
 ## Some of My Works
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dzNG82YTJpejJsMHZ0anliZHRhYnJqYWF6ZDh0cHhyNTlmbmNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i9LPkj2zqJPrd46r4q/giphy.gif)
