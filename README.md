@@ -1,7 +1,5 @@
-<h2 align="left">
  ### Hi 👋, I'm Adeoluwa Adeoye 👋 
-</h2>
-
+ 
 - 🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js and React.js.
 - 🚀 Backend: Experience with Express.js, Node.js, and MongoDB for building RESTful APIs.
 - 🔄 State Management: Knowledgeable in Redux for large-scale React applications.
