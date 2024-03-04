@@ -18,9 +18,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeoluwaadeoye&layout=compact&theme=radical)
 
 ## Some of My Works
-<div style="width:200">
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dzNG82YTJpejJsMHZ0anliZHRhYnJqYWF6ZDh0cHhyNTlmbmNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i9LPkj2zqJPrd46r4q/giphy.gif)
-</div>
 
 ## Languages and Tools
 <div style="display: flex; justify-content: space-between; gap: 40px; margin: 20px">
