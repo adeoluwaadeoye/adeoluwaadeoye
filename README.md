@@ -1,8 +1,6 @@
-
-
   ### Hello there 👋, I'm Adeoluwa Adeoye 👋
 <br />
-   A dedicated Frontend Developer passionate about creating captivating user experiences through     clean and efficient code.
+   A dedicated Frontend Developer passionate about creating captivating user experiences through clean and efficient code.
 
 
 - 🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js and React.js.
@@ -40,7 +38,7 @@
 <br />
 
 ## Certification
-[<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="700">](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
+[<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="600">](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
 
 ## Completed Projects
 Here are some of the projects I've worked on:
