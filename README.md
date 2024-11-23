@@ -1,4 +1,4 @@
-  ### Hello there 👋, I'm Adeoluwa Adeoye 👋
+  ### Hello there 👋, I'm Adeoluwa 
 <br />
    A dedicated Frontend Developer passionate about creating captivating user experiences through clean and efficient code.
 
