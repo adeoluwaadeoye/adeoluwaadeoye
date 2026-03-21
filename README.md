@@ -4,7 +4,6 @@ Fullstack Developer | React, Next.js, Node.js, Express, MongoDB | Building scala
 ---
 
 ### Skills & Expertise
-
 **Frontend:** HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js, React.js  
 **Backend:** Express.js, Node.js, MongoDB, RESTful APIs  
 **State Management:** Redux for large-scale React apps  
@@ -27,7 +26,7 @@ Fullstack Developer | React, Next.js, Node.js, Express, MongoDB | Building scala
 ---
 
 ### Languages & Tools
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 25px; margin: 20px 0;">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="CSS" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="35"/>
@@ -42,24 +41,38 @@ Fullstack Developer | React, Next.js, Node.js, Express, MongoDB | Building scala
 
 ---
 
+### Projects
+Here are a few highlights of my work:
+
+1. **[Honeyland Real Estate Platform](https://your-live-demo-link.com)**  
+   Fullstack property listing platform using Next.js, MongoDB, and Tailwind CSS. Includes project filtering, modals, and admin dashboard.
+
+2. **[Task Manager App](https://your-live-demo-link.com)**  
+   React + Node.js app for managing tasks with user authentication, CRUD operations, and real-time updates.
+
+3. **[Portfolio Website](https://your-live-demo-link.com)**  
+   Personal portfolio built with Next.js and Tailwind CSS, showcasing projects, GitHub stats, and contact functionality.
+
+---
+
 ### Certification
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ" target="_blank" rel="noopener noreferrer">
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
   <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="600" alt="Coursera Certificate">
 </a>
 
 ---
 
 ### Connect with Me
-<a href="https://linkedin.com/in/adeoyeadeoluwa" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35" style="margin-right:10px;" alt="LinkedIn">
+<a href="https://linkedin.com/in/adeoyeadeoluwa" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right:20px;">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" alt="LinkedIn">
 </a>
 
-<a href="https://api.whatsapp.com/send/?phone=2348140898790&text=Hello%2C+I+would+like+to+discuss+Fullstack+Web+Development+services.&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" width="35" style="margin-right:10px;" alt="WhatsApp">
+<a href="https://api.whatsapp.com/send/?phone=2348140898790&text=Hello%2C+I+would+like+to+discuss+Fullstack+Web+Development+services.&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right:20px;">
+  <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" width="40" alt="WhatsApp">
 </a>
 
-<a href="https://m.me/adeoluwa.adeoye.90" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" width="35" style="margin-right:10px;" alt="Messenger">
+<a href="https://m.me/adeoluwa.adeoye.90" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right:20px;">
+  <img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" width="40" alt="Messenger">
 </a>
 
 ---
