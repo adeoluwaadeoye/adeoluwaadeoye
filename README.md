@@ -3,6 +3,7 @@
 Fullstack Developer | React, Next.js, Node.js, Express, MongoDB | Building scalable web apps with clean, maintainable code <br>
 
 <br>
+<br>
 
 -  Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js and React.js.
 -  Backend: Experience with Express.js, Node.js, and MongoDB for building RESTful APIs.
@@ -44,12 +45,12 @@ Fullstack Developer | React, Next.js, Node.js, Express, MongoDB | Building scala
 
 ## Connect with Me
 [<img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="padding-right:10px;" width="35">](https://linkedin.com/in/adeoyeadeoluwa)
-[<img align="left" src="https://www.vectorlogo.zone/logos/twitter/X-icon.svg" style="padding-right:10px;" width="35">](https://www.twitter.com/adeoluwatweets)
+[<img align="left" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" style="padding-right:10px;" width="35">](https://www.whatsapp.me/+2348140898790)
 [<img align="left" src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" style="padding-right:10px;" width="35">](https://m.me/adeoluwa.adeoye.90)
 <br />
 <br />
-- 💬 Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.
-- 📫 You can reach me via email at adeoluadeoye7@gmail.com or connect with me on [WhatsApp](https://wa.me/+2348140898790).
+- Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.
+- You can reach me via email at adeoluadeoye7@gmail.com or connect with me on [WhatsApp](https://wa.me/+2348140898790).
 
 
 
