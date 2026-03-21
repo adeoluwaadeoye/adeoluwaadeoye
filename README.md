@@ -50,9 +50,8 @@ Fullstack Developer | React, Next.js, Node.js, Express, MongoDB | Building scala
 <br />
 <br />
 - Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.
-- You can reach me via email at adeoluadeoye7@gmail.com or connect with me on [WhatsApp](https://wa.me/+2348140898790).
-
+- You can reach me via email at adeoluadeoye7@gmail.com.
 
 
 ## Get in Touch
-Let's build something amazing together and stay ahead in the ever-evolving world of frontend development! ⚡️✨🚀
+Let's build something amazing together and stay ahead in the ever-evolving world of web development! 
