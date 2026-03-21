@@ -1,6 +1,6 @@
   ### Hello there 👋, I'm Adeoluwa 
 <br />
-   A dedicated Fullstack Developer passionate about creating captivating user experiences through clean and efficient code.
+Fullstack Developer passionate about building seamless user experiences with clean, efficient, and maintainable code across both frontend and backend.
 
 
 - 🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js and React.js.
@@ -40,16 +40,10 @@
 ## Certification
 [<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="600">](https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ)
 
-## Completed Projects
-Here are some of the projects I've worked on:
-- **E-Commerce Website:** Developed a fully functional e-commerce platform using React.js and Redux for state management. [**see project**](https://tastytopz.netlify.app/)
-- **Portfolio Website:** Designed and built my personal portfolio website to showcase my projects and skills. [**see project**](https://adeoluwaadeoye.netlify.app/)
-- **VisualHunt:** Created an innovative image search application powered by an API, allowing users to explore and discover a vast array of images with ease. [**see project**](https://visualhunt.netlify.app/)
-- **CraveWave:** Crafted a visually enticing restaurant project with an elegant UI design, focusing on delivering an immersive dining experience to users. [**see project**](https://cravewave.netlify.app/)
 
 ## Connect with Me
 [<img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="padding-right:10px;" width="35">](https://linkedin.com/in/adeoyeadeoluwa)
-[<img align="left" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" style="padding-right:10px;" width="35">](https://www.twitter.com/adeoluwatweets)
+[<img align="left" src="https://www.vectorlogo.zone/logos/twitter/X-icon.svg" style="padding-right:10px;" width="35">](https://www.twitter.com/adeoluwatweets)
 [<img align="left" src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" style="padding-right:10px;" width="35">](https://m.me/adeoluwa.adeoye.90)
 <br />
 <br />
