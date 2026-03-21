@@ -2,6 +2,7 @@
 <br />
 Fullstack Developer | React, Next.js, Node.js, Express, MongoDB | Building scalable web apps with clean, maintainable code <br>
 
+<br>
 
 -  Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js and React.js.
 -  Backend: Experience with Express.js, Node.js, and MongoDB for building RESTful APIs.
