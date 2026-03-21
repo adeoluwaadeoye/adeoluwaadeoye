@@ -26,7 +26,7 @@ Fullstack Developer | React, Next.js, Node.js, Express, MongoDB | Building scala
 ---
 
 ### Languages & Tools
-<div style="display: flex; flex-wrap: wrap; gap: 25px; margin: 20px 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 40px; margin: 20px 0;">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="CSS" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="35"/>
@@ -63,6 +63,7 @@ Here are a few highlights of my work:
 ---
 
 ### Connect with Me
+<div style="display: flex; flex-wrap: wrap; gap: 40px; margin: 20px 0;">
 <a href="https://linkedin.com/in/adeoyeadeoluwa" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right:20px;">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" alt="LinkedIn">
 </a>
@@ -74,7 +75,7 @@ Here are a few highlights of my work:
 <a href="https://m.me/adeoluwa.adeoye.90" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right:20px;">
   <img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" width="40" alt="Messenger">
 </a>
-
+</div>
 ---
 
 ### Get in Touch
