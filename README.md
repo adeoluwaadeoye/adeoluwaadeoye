@@ -1,6 +1,6 @@
   ### Hello there 👋, I'm Adeoluwa 
 <br />
-   A dedicated Frontend Developer passionate about creating captivating user experiences through clean and efficient code.
+   A dedicated Fullstack Developer passionate about creating captivating user experiences through clean and efficient code.
 
 
 - 🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js and React.js.
