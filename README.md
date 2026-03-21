@@ -64,7 +64,7 @@ Here are a few highlights of my work:
 
 ### Connect with Me
 <div style="display: flex; flex-wrap: wrap; gap: 40px; margin: 20px 0;">
-<a href="https://linkedin.com/in/adeoyeadeoluwa" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right:20px;">
+<a href="https://linkedin.com/in/adeoyeadeoluwa" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right:50px;">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" alt="LinkedIn">
 </a>
 
