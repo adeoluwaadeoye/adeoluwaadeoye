@@ -4,6 +4,7 @@ Fullstack Developer | React, Next.js, Node.js, Express, MongoDB | Building scala
 ---
 
 ### Skills & Expertise
+
 **Frontend:** HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js, React.js  
 **Backend:** Express.js, Node.js, MongoDB, RESTful APIs  
 **State Management:** Redux for large-scale React apps  
@@ -17,65 +18,55 @@ Fullstack Developer | React, Next.js, Node.js, Express, MongoDB | Building scala
 ---
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=adeoluwaadeoye&show_icons=true&theme=radical&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true" alt="GitHub Stats" />  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeoluwaadeoye&show_icons=true&theme=radical&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true)  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adeoluwaadeoye&theme=radical" alt="Contributions and Streaks" />  
+![Contributions and Streaks](https://github-readme-streak-stats.herokuapp.com/?user=adeoluwaadeoye&theme=radical)  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeoluwaadeoye&layout=compact&theme=radical" alt="Top Languages" />  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeoluwaadeoye&layout=compact&theme=radical)  
 
 ---
 
 ### Languages & Tools
-<div style="display: flex; flex-wrap: wrap; gap: 40px; margin: 20px 0;">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="CSS" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="35"/>
-</div>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="35" alt="HTML">&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" height="35" alt="CSS">&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="35" alt="JavaScript">&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="35" alt="React.js">&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="35" alt="Tailwind">&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" height="35" alt="npm">&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="35" alt="Bootstrap">&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="35" alt="VSCode">&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="35" alt="Node.js">&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="35" alt="Git">  
 
 ---
 
 ### Projects
-Here are a few highlights of my work:
-
-1. **[Honeyland Real Estate Platform](https://your-live-demo-link.com)**  
-   Fullstack property listing platform using Next.js, MongoDB, and Tailwind CSS. Includes project filtering, modals, and admin dashboard.
-
-2. **[Task Manager App](https://your-live-demo-link.com)**  
-   React + Node.js app for managing tasks with user authentication, CRUD operations, and real-time updates.
-
-3. **[Portfolio Website](https://your-live-demo-link.com)**  
-   Personal portfolio built with Next.js and Tailwind CSS, showcasing projects, GitHub stats, and contact functionality.
+| Project | Description |
+|---------|-------------|
+| [Honeyland Real Estate](https://your-live-demo-link.com) | Fullstack property listing platform using Next.js, MongoDB, Tailwind CSS. Includes filtering and admin dashboard. |
+| [Task Manager App](https://your-live-demo-link.com) | React + Node.js app for managing tasks with user authentication and CRUD operations. |
+| [Portfolio Website](https://your-live-demo-link.com) | Personal portfolio built with Next.js and Tailwind CSS, showcasing projects and contact info. |
 
 ---
 
 ### Certification
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ" target="_blank" rel="noopener noreferrer">
   <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="600" alt="Coursera Certificate">
 </a>
 
 ---
 
 ### Connect with Me
-<div style="display: flex; flex-wrap: wrap; gap: 40px; margin: 20px 0;">
-<a href="https://linkedin.com/in/adeoyeadeoluwa" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right:50px;">
+<a href="https://linkedin.com/in/adeoyeadeoluwa" target="_blank" rel="noopener noreferrer">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" alt="LinkedIn">
-</a>
-
-<a href="https://api.whatsapp.com/send/?phone=2348140898790&text=Hello%2C+I+would+like+to+discuss+Fullstack+Web+Development+services.&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right:20px;">
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://api.whatsapp.com/send/?phone=2348140898790&text=Hello%2C+I+would+like+to+discuss+Fullstack+Web+Development+services.&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer">
   <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" width="40" alt="WhatsApp">
-</a>
-
-<a href="https://m.me/adeoluwa.adeoye.90" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right:20px;">
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://m.me/adeoluwa.adeoye.90" target="_blank" rel="noopener noreferrer">
   <img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" width="40" alt="Messenger">
 </a>
-</div>
+
 ---
 
 ### Get in Touch
