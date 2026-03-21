@@ -1,17 +1,17 @@
   ### Hello there 👋, I'm Adeoluwa 
 <br />
-Fullstack Developer passionate about building seamless user experiences with clean, efficient, and maintainable code across both frontend and backend.
+Fullstack Developer | React, Next.js, Node.js, Express, MongoDB | Building scalable web apps with clean, maintainable code <br>
 
 
-- 🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js and React.js.
-- 🚀 Backend: Experience with Express.js, Node.js, and MongoDB for building RESTful APIs.
-- 🔄 State Management: Knowledgeable in Redux for large-scale React applications.
-- 📱 UI/UX: Familiar with Figma and Adobe XD for design.
-- 📝 Version Control: Git/GitHub proficiency.
-- ☁️ Deployment: Experienced in deploying on AWS, Vercel, Hostinger and Netlify.
-- ✔️ Testing: Familiar with Jest and React Testing Library.
-- 🔍 Problem-solving: Strong debugging skills.
-- 💬 Communication: Effective team collaboration.
+-  Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js and React.js.
+-  Backend: Experience with Express.js, Node.js, and MongoDB for building RESTful APIs.
+-  State Management: Knowledgeable in Redux for large-scale React applications.
+-  UI/UX: Familiar with Figma and Adobe XD for design.
+-  Version Control: Git/GitHub proficiency.
+-  Deployment: Experienced in deploying on AWS, Vercel, Hostinger and Netlify.
+-  Testing: Familiar with Jest and React Testing Library.
+-  Problem-solving: Strong debugging skills.
+-  Communication: Effective team collaboration.
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeoluwaadeoye&show_icons=true&theme=radical&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true)
@@ -51,8 +51,6 @@ Fullstack Developer passionate about building seamless user experiences with cle
 - 📫 You can reach me via email at adeoluadeoye7@gmail.com or connect with me on [WhatsApp](https://wa.me/+2348140898790).
 
 
-## Get Involved
- 😉 consider giving my [repositories](https://github.com/adeoluwaadeoye?tab=repositories) a star ⭐️!
 
 ## Get in Touch
 Let's build something amazing together and stay ahead in the ever-evolving world of frontend development! ⚡️✨🚀
