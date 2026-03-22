@@ -43,8 +43,8 @@ Fullstack Developer | React, Next.js, Node.js, Express, MongoDB | Building scala
 ### Projects
 | Project | Description |
 |---------|-------------|
-| [Buidtek Constructions](https://app.netlify.com/projects/saotech/) | Fullstack property listing platform using Next.js, MongoDB, Tailwind CSS. Includes filtering and admin dashboard. |
-| [Zyrotech](https://app.netlify.com/projects/zyrotech/) | React + Node.js app for managing tasks with user authentication and CRUD operations. |
+| [Buidtek Constructions](https://saotech.netlify.app/) | Fullstack property listing platform using Next.js, MongoDB, Tailwind CSS. Includes filtering and admin dashboard. |
+| [Zyrotech](https://zyrotech.netlify.app/) | React + Node.js app for managing tasks with user authentication and CRUD operations. |
 | [Community Website](https://your-live-demo-link.) | Community Developmemnt Association website built with Next.js and Tailwind CSS, showcasing projects and contact info. |
 ---
 
