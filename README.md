@@ -10,7 +10,7 @@ From pixel-perfect frontends to robust APIs — I ship products that work.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adeoyeadeoluwa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeoluadeoye7@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=2348140898790&text=Hello%2C+I+would+like+to+discuss+Fullstack+Web+Development+services.)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adeoluwaadeoye.vercel.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adeoluwaadeoye&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -96,12 +96,6 @@ From pixel-perfect frontends to robust APIs — I ship products that work.
 </table>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adeoluwaadeoye&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)
-
----
-
-### 🏆 Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=adeoluwaadeoye&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/adeoluwaadeoye)
 
 ---
 
