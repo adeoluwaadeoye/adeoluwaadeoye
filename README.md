@@ -1,77 +1,122 @@
-### Hello there 👋, I'm Adeoluwa  
-Fullstack Developer | React, Next.js, Node.js, Express, MongoDB | Building scalable web apps with clean, maintainable code  
+<div align="center">
+
+# Hi, I'm Adeoluwa 👋
+
+**Fullstack Web Developer** · Nigeria 🇳🇬
+
+I build scalable, production-ready web applications with clean architecture and modern tooling.
+From pixel-perfect frontends to robust APIs — I ship products that work.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adeoyeadeoluwa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeoluadeoye7@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=2348140898790&text=Hello%2C+I+would+like+to+discuss+Fullstack+Web+Development+services.)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+
+![Profile Views](https://komarev.com/ghpvc/?username=adeoluwaadeoye&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-### Skills & Expertise
+### 🧑‍💻 About Me
 
-**Frontend:** HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js, React.js  
-**Backend:** Express.js, Node.js, MongoDB, RESTful APIs  
-**State Management:** Redux for large-scale React apps  
-**UI/UX:** Figma, Adobe XD  
-**Version Control:** Git/GitHub  
-**Deployment:** AWS, Vercel, Hostinger, Netlify  
-**Testing:** Jest, React Testing Library  
-**Problem-solving:** Strong debugging skills  
-**Communication:** Effective team collaboration  
+- 🔭 Currently building **[Invoicely](https://your-app.vercel.app)** — a multi-tenant SaaS invoicing platform
+- 💼 Open to fullstack roles in product companies, startups, and remote teams
+- 🌍 Based in Nigeria, available for remote work globally
+- ⚡ I care about clean code, great UX, and shipping things that actually work
+- 📧 Reach me at **adeoluadeoye7@gmail.com**
 
 ---
 
-### GitHub Stats
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Tooling & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**Invoicely**](https://your-app.vercel.app) | Next.js · MongoDB · Clerk · Paystack · Resend | Multi-tenant SaaS invoicing platform. Create clients, generate PDF invoices, send via email, and accept payments via Paystack with webhook auto-confirmation. |
+| [**Buidtek Constructions**](https://saotech.netlify.app/) | Next.js · MongoDB · Tailwind CSS | Fullstack property listing platform with advanced filtering and admin dashboard. |
+| [**Honeyland CDA**](https://honeylandcda.netlify.app/) | Next.js · Tailwind CSS | Community Development Association website with project showcase and contact system. |
+| [**Zyrotech**](https://zyrotech.netlify.app/) | React · Node.js · Express | Task management app with JWT authentication and full CRUD operations. |
+
+---
+
+### 📊 GitHub Stats
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adeoluwaadeoye&theme=tokyonight)
+
+<table>
+  <tr>
+    <td>
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adeoluwaadeoye&theme=tokyonight&utcOffset=1)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=adeoluwaadeoye&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+  </td>
+  <td>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adeoluwaadeoye&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=adeoluwaadeoye&theme=tokyonight&hide_border=true&background=1a1b27&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
----
+  </td>
+  </tr>
+</table>
 
-### Languages & Tools
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="35" alt="HTML">&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" height="35" alt="CSS">&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="35" alt="JavaScript">&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="35" alt="React.js">&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="35" alt="Tailwind">&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" height="35" alt="npm">&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="35" alt="Bootstrap">&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="35" alt="VSCode">&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="35" alt="Node.js">&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="35" alt="Git">  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adeoluwaadeoye&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)
 
 ---
 
-### Projects
-| Project | Description |
-|---------|-------------|
-| [Community Website](https://honeylandcda.netlify.app/) | Community Developmemnt Association website built with Next.js and Tailwind CSS, showcasing projects and contact info. |
-| [Buidtek Constructions](https://saotech.netlify.app/) | Fullstack property listing platform using Next.js, MongoDB, Tailwind CSS. Includes filtering and admin dashboard. |
-| [Zyrotech](https://zyrotech.netlify.app/) | React + Node.js app for managing tasks with user authentication and CRUD operations. |
+### 🏆 Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=adeoluwaadeoye&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/adeoluwaadeoye)
+
 ---
 
-### Certification
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ" target="_blank" rel="noopener noreferrer">
-  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="600" alt="Coursera Certificate">
+### 📜 Certification
+
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ" target="_blank">
+  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="500" alt="Coursera Certificate">
 </a>
 
 ---
 
-### Connect with Me
-<a href="https://linkedin.com/in/adeoyeadeoluwa" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" alt="LinkedIn">
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://api.whatsapp.com/send/?phone=2348140898790&text=Hello%2C+I+would+like+to+discuss+Fullstack+Web+Development+services.&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" width="40" alt="WhatsApp">
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://m.me/adeoluwa.adeoye.90" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" width="40" alt="Messenger">
-</a>
+<div align="center">
 
----
+*Open to fullstack roles in product companies, startups, and remote teams. Let's build something great.*
 
-### Get in Touch
-Feel free to ask me about frontend frameworks, best practices in web development, or anything related to creating delightful user experiences.  
-📧 Email: <a href="mailto:adeoluadeoye7@gmail.com" target="_blank" rel="noopener noreferrer">adeoluadeoye7@gmail.com</a>  
+**[📧 Email me](mailto:adeoluadeoye7@gmail.com) · [💼 LinkedIn](https://linkedin.com/in/adeoyeadeoluwa) · [💬 WhatsApp](https://api.whatsapp.com/send/?phone=2348140898790&text=Hello)**
 
-**Let's build something amazing together and stay ahead in the ever-evolving world of web development!**
+</div>
