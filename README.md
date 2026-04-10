@@ -18,13 +18,13 @@ Fullstack Developer | React, Next.js, Node.js, Express, MongoDB | Building scala
 ---
 
 ### GitHub Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=adeoluwaadeoye&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adeoluwaadeoye&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adeoluwaadeoye&theme=tokyonight)
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adeoluwaadeoye&theme=tokyonight&utcOffset=1)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=adeoluwaadeoye&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adeoluwaadeoye&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
 
 ---
 
