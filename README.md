@@ -20,7 +20,7 @@ From pixel-perfect frontends to robust APIs — I ship products that work.
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently building **[Invoicely](https://your-app.vercel.app)** — a multi-tenant SaaS invoicing platform
+- 🔭 Currently building **[Invoicely](https://invoicely-chi-mauve.vercel.app/)** — a multi-tenant SaaS invoicing platform
 - 💼 Open to fullstack roles in product companies, startups, and remote teams
 - 🌍 Based in Nigeria, available for remote work globally
 - ⚡ I care about clean code, great UX, and shipping things that actually work
