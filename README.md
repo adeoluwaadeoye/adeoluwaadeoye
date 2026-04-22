@@ -99,15 +99,6 @@ From pixel-perfect frontends to robust APIs — I ship products that work.
 
 ---
 
-### 📜 Certification
-<div align="center display="none">
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/ESFU4ABASJAZ" target="_blank">
-    <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ/CERTIFICATE_LANDING_PAGE~ESFU4ABASJAZ.jpeg" width="800" alt="Coursera Certificate">
-  </a>
-</div>
-
----
-
 <div align="center">
 
 *Open to fullstack roles in product companies, startups, and remote teams. Let's build something great.*
