@@ -20,7 +20,7 @@ From pixel-perfect frontends to robust APIs — I ship products that work.
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently building **[ZIVA](https://zivaclothings.vercel.app/)** — a multi-tenant SaaS invoicing platform
+- 🔭 Currently building **[ZIVA](https://zivaclothings.vercel.app/)** — a fullstack e-commerce platform
 - 💼 Open to fullstack roles in product companies, startups, and remote teams
 - 🌍 Based in Nigeria, available for remote work globally
 - ⚡ I care about clean code, great UX, and shipping things that actually work
